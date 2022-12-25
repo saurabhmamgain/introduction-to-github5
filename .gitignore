@@ -1,6 +1,6 @@
 # Mono auto generated files - Ignore all files starting with "z"
 z*
-# User-specific files - Ignore all files ending in ".env"
-*.env
+# User-specific files - Ignore all files with ".env"
+.env
 # Build results - Ignore all files in these folders found at any folder depth
 /artifacts/
